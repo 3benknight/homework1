@@ -1,0 +1,3 @@
+A merge creates a new commit that has two parent commits from the two 
+merged branches, saving the history of both branches. A rebase combines commits
+destroying the original branch and only saving the merged history of commits.
