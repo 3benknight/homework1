@@ -1,3 +1,7 @@
+A merge creates a new commit that has two parent commits from the two 
+merged branches, saving the history of both branches. A rebase combines commits
+destroying the original branch and only saving the merged history of commits.
+
 A remote repository in Git is a version of your project that is hosted online,
 enabling greater collaboration with others by allowing you to push and pull from
 online. However, this creates added risk as you must protect your code online
